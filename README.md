@@ -1,3 +1,3 @@
 # configgit
 
-** Exemplo de código para ilustrar uso do Git e GitHub **
+**Exemplo de código para ilustrar uso do Git e GitHub**
